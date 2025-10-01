@@ -1,3 +1,4 @@
+// Запуск теста: go test
 package main
 
 import (
